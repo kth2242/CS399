@@ -84,6 +84,30 @@
 			],
 			"value" : 350,
 			"name" : "G"
+		},
+		{
+			"children" :
+			[
+				{
+					"children" : [],
+					"value" : 330,
+					"name" : "H_0"
+				}
+			],
+			"value" : 400,
+			"name" : "H"
+		},
+		{
+			"children" :
+			[
+				{
+					"children" : [],
+					"value" : 350,
+					"name" : "I_0"
+				}
+			],
+			"value" : 450,
+			"name" : "I"
 		}
 	],
 	"value" : 1500,
