@@ -1,0 +1,202 @@
+{
+	"children" :
+	[
+		{
+			"children" : 
+			[
+				{
+					"children" : [],
+					"value" : 3000,
+					"name" : "A_0"
+				},
+				{
+					"children" : [],
+					"value" : 4000,
+					"name" : "A_1"
+				}
+			],
+			"value" : 5000,
+			"name" : "A"
+		},
+		{
+			"children" : 
+			[
+				{
+					"children" : [],
+					"value" : 5000,
+					"name" : "B_0"
+				},
+				{
+					"children" : [],
+					"value" : 7000,
+					"name" : "B_1"
+				},
+				{
+					"children" : [],
+					"value" : 9000,
+					"name" : "B_2"
+				}
+			],
+			"value" : 10000,
+			"name" : "B"
+		},
+		{
+			"children" :
+			[
+				{
+					"children" : [],
+					"value" : 7000,
+					"name" : "C_0"
+				},
+				{
+					"children" : [],
+					"value" : 10000,
+					"name" : "C_1"
+				}
+			],
+			"value" : 15000,
+			"name" : "C"
+		},
+		{
+			"children" :
+			[
+				{
+					"children" : [],
+					"value" : 9000,
+					"name" : "D_0"
+				}
+			],
+			"value" : 20000,
+			"name" : "D"
+		},
+		{
+			"children" :
+			[
+				{
+					"children" : [],
+					"value" : 13000,
+					"name" : "E_0"
+				},
+				{
+					"children" : [],
+					"value" : 3000,
+					"name" : "E_1"
+				},
+				{
+					"children" : [],
+					"value" : 4000,
+					"name" : "E_2"
+				},
+				{
+					"children" : [],
+					"value" : 10000,
+					"name" : "E_3"
+				}
+			],
+			"value" : 25000,
+			"name" : "E"
+		},
+		{
+			"children" :
+			[
+				{
+					"children" : [],
+					"value" : 15000,
+					"name" : "F_0"
+				}
+			],
+			"value" : 30000,
+			"name" : "F"
+		},
+		{
+			"children" :
+			[
+				{
+					"children" : [],
+					"value" : 13000,
+					"name" : "G_0"
+				},
+				{
+					"children" : [],
+					"value" : 15000,
+					"name" : "G_1"
+				},
+				{
+					"children" : [],
+					"value" : 5000,
+					"name" : "G_2"
+				},
+				{
+					"children" : [],
+					"value" : 9000,
+					"name" : "G_3"
+				}
+			],
+			"value" : 58000,
+			"name" : "G"
+		},
+		{
+			"children" :
+			[
+				{
+					"children" : [],
+					"value" : 8000,
+					"name" : "H_0"
+				},
+				{
+					"children" : [],
+					"value" : 9000,
+					"name" : "H_1"
+				},
+				{
+					"children" : [],
+					"value" : 13000,
+					"name" : "H_2"
+				},
+				{
+					"children" : [],
+					"value" : 16000,
+					"name" : "H_3"
+				},
+				{
+					"children" : [],
+					"value" : 20000,
+					"name" : "H_4"
+				}
+			],
+			"value" : 40000,
+			"name" : "H"
+		},
+		{
+			"children" :
+			[
+				{
+					"children" : 
+					[
+						{
+							"children" : [],
+							"value" : 15000,
+							"name" : "I_0_0"
+						}
+					],
+					"value" : 25000,
+					"name" : "I_0"
+				},
+				{
+					"children" : [],
+					"value" : 30000,
+					"name" : "I_1"
+				},
+				{
+					"children" : [],
+					"value" : 17000,
+					"name" : "I_2"
+				}
+			],
+			"value" : 45000,
+			"name" : "I"
+		}
+	],
+	"value" : 365000,
+	"name" : "Root"
+}
