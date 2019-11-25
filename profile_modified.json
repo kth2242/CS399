@@ -1,0 +1,2514 @@
+{
+	"children" : 
+	[
+		{
+			"children" : [],
+			"Cycles" : 210420,
+			"name" : "`dynamic initializer for 'NEUTRALGRAY''"
+		},
+		{
+			"children" : [],
+			"Cycles" : 6624,
+			"name" : "`dynamic initializer for 'WHITE''"
+		},
+		{
+			"children" : [],
+			"Cycles" : 3924,
+			"name" : "`dynamic initializer for 'MAGENTA''"
+		},
+		{
+			"children" : [],
+			"Cycles" : 3636,
+			"name" : "`dynamic initializer for 'CYAN''"
+		},
+		{
+			"children" : [],
+			"Cycles" : 3168,
+			"name" : "`dynamic initializer for 'ORANGE''"
+		},
+		{
+			"children" : [],
+			"Cycles" : 2160,
+			"name" : "`dynamic initializer for 'VALVEORANGE''"
+		},
+		{
+			"children" : [],
+			"Cycles" : 3312,
+			"name" : "`dynamic initializer for 'BLUE''"
+		},
+		{
+			"children" : [],
+			"Cycles" : 2160,
+			"name" : "`dynamic initializer for 'GREEN''"
+		},
+		{
+			"children" : [],
+			"Cycles" : 2412,
+			"name" : "`dynamic initializer for 'RED''"
+		},
+		{
+			"children" : 
+			[
+				{
+					"children" : [],
+					"Cycles" : 2196,
+					"name" : "MeadeorEngine::__autoclassinit2"
+				},
+				{
+					"children" : 
+					[
+						{
+							"children" : 
+							[
+								{
+									"children" : 
+									[
+										{
+											"children" : 
+											[
+												{
+													"children" : 
+													[
+														{
+															"children" : [],
+															"Cycles" : 1656,
+															"name" : "std::_Compressed_pair<std::_Wrap_alloc<std::allocator<MSystem *> >,std::_Vector_val<std::_Simple_types<MSystem *> >,1>::_Get_second"
+														}
+													],
+													"Cycles" : 3528,
+													"name" : "std::_Wrap_alloc<std::allocator<MSystem *> >::_Wrap_alloc<std::allocator<MSystem *> >"
+												},
+												{
+													"children" : [],
+													"Cycles" : 3060,
+													"name" : "std::_Vector_val<std::_Simple_types<MSystem *> >::_Vector_val<std::_Simple_types<MSystem *> >"
+												}
+											],
+											"Cycles" : 8460,
+											"name" : "std::_Compressed_pair<std::_Wrap_alloc<std::allocator<MSystem *> >,std::_Vector_val<std::_Simple_types<MSystem *> >,1>::_Compressed_pair<std::_Wrap_alloc<std::allocator<MSystem *> >,std::_Vector_val<std::_Simple_types<MSystem *> >,1><>"
+										}
+									],
+									"Cycles" : 10656,
+									"name" : "std::_Vector_alloc<std::_Vec_base_types<MSystem *,std::allocator<MSystem *> > >::_Vector_alloc<std::_Vec_base_types<MSystem *,std::allocator<MSystem *> > >"
+								}
+							],
+							"Cycles" : 13536,
+							"name" : "std::vector<MSystem *,std::allocator<MSystem *> >::vector<MSystem *,std::allocator<MSystem *> >"
+						}
+					],
+					"Cycles" : 155880,
+					"name" : "MeadeorEngine::MeadeorEngine"
+				}
+			],
+			"Cycles" : 177624,
+			"name" : "`dynamic initializer for 'MeadeorEngine::engine''"
+		},
+		{
+			"children" : [],
+			"Cycles" : 4500,
+			"name" : "MeadeorEngine::AccessEngine"
+		},
+		{
+			"children" : 
+			[
+				{
+					"children" : [],
+					"Cycles" : 25452,
+					"name" : "MeadeorEngine::__autoclassinit2"
+				}
+			],
+			"Cycles" : 14004,
+			"name" : "MeadeorEngine::Init"
+		},
+		{
+			"children" : [],
+			"Cycles" : 5652,
+			"name" : "MeadeorEngine::__autoclassinit2"
+		},
+		{
+			"children" : 
+			[
+				{
+					"children" : 
+					[
+						{
+							"children" : [],
+							"Cycles" : 1800,
+							"name" : "std::addressof<MSystem * const>"
+						},
+						{
+							"children" : 
+							[
+								{
+									"children" : 
+									[
+										{
+											"children" : 
+											[
+												{
+													"children" : [],
+													"Cycles" : 1656,
+													"name" : "std::_Compressed_pair<std::_Wrap_alloc<std::allocator<MSystem *> >,std::_Vector_val<std::_Simple_types<MSystem *> >,1>::_Get_second"
+												}
+											],
+											"Cycles" : 5508,
+											"name" : "std::_Vector_alloc<std::_Vec_base_types<MSystem *,std::allocator<MSystem *> > >::_Get_data"
+										}
+									],
+									"Cycles" : 7884,
+									"name" : "std::_Vector_alloc<std::_Vec_base_types<MSystem *,std::allocator<MSystem *> > >::_Mylast"
+								},
+								{
+									"children" : [],
+									"Cycles" : 3456,
+									"name" : "std::addressof<MSystem * const>"
+								}
+							],
+							"Cycles" : 14652,
+							"name" : "std::vector<MSystem *,std::allocator<MSystem *> >::_Inside"
+						},
+						{
+							"children" : 
+							[
+								{
+									"children" : 
+									[
+										{
+											"children" : [],
+											"Cycles" : 1836,
+											"name" : "std::_Compressed_pair<std::_Wrap_alloc<std::allocator<MSystem *> >,std::_Vector_val<std::_Simple_types<MSystem *> >,1>::_Get_second"
+										}
+									],
+									"Cycles" : 3672,
+									"name" : "std::_Vector_alloc<std::_Vec_base_types<MSystem *,std::allocator<MSystem *> > >::_Get_data"
+								}
+							],
+							"Cycles" : 8244,
+							"name" : "std::_Vector_alloc<std::_Vec_base_types<MSystem *,std::allocator<MSystem *> > >::_Mylast"
+						},
+						{
+							"children" : 
+							[
+								{
+									"children" : 
+									[
+										{
+											"children" : [],
+											"Cycles" : 1980,
+											"name" : "std::_Compressed_pair<std::_Wrap_alloc<std::allocator<MSystem *> >,std::_Vector_val<std::_Simple_types<MSystem *> >,1>::_Get_second"
+										}
+									],
+									"Cycles" : 3744,
+									"name" : "std::_Vector_alloc<std::_Vec_base_types<MSystem *,std::allocator<MSystem *> > >::_Get_data"
+								}
+							],
+							"Cycles" : 7056,
+							"name" : "std::_Vector_alloc<std::_Vec_base_types<MSystem *,std::allocator<MSystem *> > >::_Myend"
+						},
+						{
+							"children" : 
+							[
+								{
+									"children" : 
+									[
+										{
+											"children" : 
+											[
+												{
+													"children" : 
+													[
+														{
+															"children" : [],
+															"Cycles" : 1872,
+															"name" : "std::_Compressed_pair<std::_Wrap_alloc<std::allocator<MSystem *> >,std::_Vector_val<std::_Simple_types<MSystem *> >,1>::_Get_second"
+														}
+													],
+													"Cycles" : 3960,
+													"name" : "std::_Vector_alloc<std::_Vec_base_types<MSystem *,std::allocator<MSystem *> > >::_Get_data"
+												}
+											],
+											"Cycles" : 5904,
+											"name" : "std::_Vector_alloc<std::_Vec_base_types<MSystem *,std::allocator<MSystem *> > >::_Myend"
+										},
+										{
+											"children" : 
+											[
+												{
+													"children" : 
+													[
+														{
+															"children" : [],
+															"Cycles" : 1656,
+															"name" : "std::_Compressed_pair<std::_Wrap_alloc<std::allocator<MSystem *> >,std::_Vector_val<std::_Simple_types<MSystem *> >,1>::_Get_second"
+														}
+													],
+													"Cycles" : 3636,
+													"name" : "std::_Vector_alloc<std::_Vec_base_types<MSystem *,std::allocator<MSystem *> > >::_Get_data"
+												}
+											],
+											"Cycles" : 6696,
+											"name" : "std::_Vector_alloc<std::_Vec_base_types<MSystem *,std::allocator<MSystem *> > >::_Mylast"
+										}
+									],
+									"Cycles" : 14832,
+									"name" : "std::vector<MSystem *,std::allocator<MSystem *> >::_Unused_capacity"
+								},
+								{
+									"children" : 
+									[
+										{
+											"children" : 
+											[
+												{
+													"children" : [],
+													"Cycles" : 1692,
+													"name" : "std::_Compressed_pair<std::_Wrap_alloc<std::allocator<MSystem *> >,std::_Vector_val<std::_Simple_types<MSystem *> >,1>::_Get_second"
+												}
+											],
+											"Cycles" : 3492,
+											"name" : "std::_Vector_alloc<std::_Vec_base_types<MSystem *,std::allocator<MSystem *> > >::_Get_data"
+										},
+										{
+											"children" : 
+											[
+												{
+													"children" : 
+													[
+														{
+															"children" : [],
+															"Cycles" : 1620,
+															"name" : "std::allocator<MSystem *>::max_size"
+														}
+													],
+													"Cycles" : 3456,
+													"name" : "std::allocator_traits<std::allocator<MSystem *> >::max_size"
+												}
+											],
+											"Cycles" : 6480,
+											"name" : "std::_Wrap_alloc<std::allocator<MSystem *> >::max_size"
+										}
+									],
+									"Cycles" : 13140,
+									"name" : "std::vector<MSystem *,std::allocator<MSystem *> >::max_size"
+								},
+								{
+									"children" : 
+									[
+										{
+											"children" : 
+											[
+												{
+													"children" : 
+													[
+														{
+															"children" : [],
+															"Cycles" : 1620,
+															"name" : "std::_Compressed_pair<std::_Wrap_alloc<std::allocator<MSystem *> >,std::_Vector_val<std::_Simple_types<MSystem *> >,1>::_Get_second"
+														}
+													],
+													"Cycles" : 3312,
+													"name" : "std::_Vector_alloc<std::_Vec_base_types<MSystem *,std::allocator<MSystem *> > >::_Get_data"
+												}
+											],
+											"Cycles" : 5364,
+											"name" : "std::_Vector_alloc<std::_Vec_base_types<MSystem *,std::allocator<MSystem *> > >::_Mylast"
+										},
+										{
+											"children" : 
+											[
+												{
+													"children" : 
+													[
+														{
+															"children" : [],
+															"Cycles" : 1620,
+															"name" : "std::_Compressed_pair<std::_Wrap_alloc<std::allocator<MSystem *> >,std::_Vector_val<std::_Simple_types<MSystem *> >,1>::_Get_second"
+														}
+													],
+													"Cycles" : 3384,
+													"name" : "std::_Vector_alloc<std::_Vec_base_types<MSystem *,std::allocator<MSystem *> > >::_Get_data"
+												}
+											],
+											"Cycles" : 6408,
+											"name" : "std::_Vector_alloc<std::_Vec_base_types<MSystem *,std::allocator<MSystem *> > >::_Myfirst"
+										}
+									],
+									"Cycles" : 15120,
+									"name" : "std::vector<MSystem *,std::allocator<MSystem *> >::size"
+								},
+								{
+									"children" : 
+									[
+										{
+											"children" : 
+											[
+												{
+													"children" : [],
+													"Cycles" : 1944,
+													"name" : "std::_Compressed_pair<std::_Wrap_alloc<std::allocator<MSystem *> >,std::_Vector_val<std::_Simple_types<MSystem *> >,1>::_Get_second"
+												}
+											],
+											"Cycles" : 3708,
+											"name" : "std::_Vector_alloc<std::_Vec_base_types<MSystem *,std::allocator<MSystem *> > >::_Get_data"
+										}
+									],
+									"Cycles" : 6948,
+									"name" : "std::_Vector_alloc<std::_Vec_base_types<MSystem *,std::allocator<MSystem *> > >::_Mylast"
+								},
+								{
+									"children" : 
+									[
+										{
+											"children" : 
+											[
+												{
+													"children" : [],
+													"Cycles" : 1692,
+													"name" : "std::_Compressed_pair<std::_Wrap_alloc<std::allocator<MSystem *> >,std::_Vector_val<std::_Simple_types<MSystem *> >,1>::_Get_second"
+												}
+											],
+											"Cycles" : 3420,
+											"name" : "std::_Vector_alloc<std::_Vec_base_types<MSystem *,std::allocator<MSystem *> > >::_Get_data"
+										}
+									],
+									"Cycles" : 6588,
+									"name" : "std::_Vector_alloc<std::_Vec_base_types<MSystem *,std::allocator<MSystem *> > >::_Myfirst"
+								}
+							],
+							"Cycles" : 15408,
+							"name" : "std::vector<MSystem *,std::allocator<MSystem *> >::_Reserve"
+						},
+						{
+							"children" : 
+							[
+								{
+									"children" : 
+									[
+										{
+											"children" : 
+											[
+												{
+													"children" : 
+													[
+														{
+															"children" : [],
+															"Cycles" : 6948,
+															"name" : "std::_Compressed_pair<std::_Wrap_alloc<std::allocator<MSystem *> >,std::_Vector_val<std::_Simple_types<MSystem *> >,1>::_Get_second"
+														}
+													],
+													"Cycles" : 9180,
+													"name" : "std::_Vector_alloc<std::_Vec_base_types<MSystem *,std::allocator<MSystem *> > >::_Get_data"
+												}
+											],
+											"Cycles" : 10908,
+											"name" : "std::_Vector_alloc<std::_Vec_base_types<MSystem *,std::allocator<MSystem *> > >::_Myend"
+										},
+										{
+											"children" : 
+											[
+												{
+													"children" : 
+													[
+														{
+															"children" : [],
+															"Cycles" : 1656,
+															"name" : "std::_Compressed_pair<std::_Wrap_alloc<std::allocator<MSystem *> >,std::_Vector_val<std::_Simple_types<MSystem *> >,1>::_Get_second"
+														}
+													],
+													"Cycles" : 3456,
+													"name" : "std::_Vector_alloc<std::_Vec_base_types<MSystem *,std::allocator<MSystem *> > >::_Get_data"
+												}
+											],
+											"Cycles" : 6552,
+											"name" : "std::_Vector_alloc<std::_Vec_base_types<MSystem *,std::allocator<MSystem *> > >::_Myfirst"
+										}
+									],
+									"Cycles" : 19332,
+									"name" : "std::vector<MSystem *,std::allocator<MSystem *> >::capacity"
+								},
+								{
+									"children" : 
+									[
+										{
+											"children" : 
+											[
+												{
+													"children" : [],
+													"Cycles" : 1692,
+													"name" : "std::_Compressed_pair<std::_Wrap_alloc<std::allocator<MSystem *> >,std::_Vector_val<std::_Simple_types<MSystem *> >,1>::_Get_second"
+												}
+											],
+											"Cycles" : 3384,
+											"name" : "std::_Vector_alloc<std::_Vec_base_types<MSystem *,std::allocator<MSystem *> > >::_Get_data"
+										},
+										{
+											"children" : 
+											[
+												{
+													"children" : 
+													[
+														{
+															"children" : [],
+															"Cycles" : 1620,
+															"name" : "std::allocator<MSystem *>::max_size"
+														}
+													],
+													"Cycles" : 3384,
+													"name" : "std::allocator_traits<std::allocator<MSystem *> >::max_size"
+												}
+											],
+											"Cycles" : 6300,
+											"name" : "std::_Wrap_alloc<std::allocator<MSystem *> >::max_size"
+										}
+									],
+									"Cycles" : 12816,
+									"name" : "std::vector<MSystem *,std::allocator<MSystem *> >::max_size"
+								}
+							],
+							"Cycles" : 34632,
+							"name" : "std::vector<MSystem *,std::allocator<MSystem *> >::_Grow_to"
+						},
+						{
+							"children" : 
+							[
+								{
+									"children" : 
+									[
+										{
+											"children" : [],
+											"Cycles" : 1620,
+											"name" : "std::_Compressed_pair<std::_Wrap_alloc<std::allocator<MSystem *> >,std::_Vector_val<std::_Simple_types<MSystem *> >,1>::_Get_second"
+										}
+									],
+									"Cycles" : 3348,
+									"name" : "std::_Vector_alloc<std::_Vec_base_types<MSystem *,std::allocator<MSystem *> > >::_Get_data"
+								},
+								{
+									"children" : 
+									[
+										{
+											"children" : [],
+											"Cycles" : 1836,
+											"name" : "std::allocator<MSystem *>::allocate"
+										}
+									],
+									"Cycles" : 4824,
+									"name" : "std::_Wrap_alloc<std::allocator<MSystem *> >::allocate"
+								},
+								{
+									"children" : 
+									[
+										{
+											"children" : 
+											[
+												{
+													"children" : [],
+													"Cycles" : 1620,
+													"name" : "std::_Compressed_pair<std::_Wrap_alloc<std::allocator<MSystem *> >,std::_Vector_val<std::_Simple_types<MSystem *> >,1>::_Get_second"
+												}
+											],
+											"Cycles" : 3348,
+											"name" : "std::_Vector_alloc<std::_Vec_base_types<MSystem *,std::allocator<MSystem *> > >::_Get_data"
+										}
+									],
+									"Cycles" : 6408,
+									"name" : "std::_Vector_alloc<std::_Vec_base_types<MSystem *,std::allocator<MSystem *> > >::_Mylast"
+								},
+								{
+									"children" : 
+									[
+										{
+											"children" : 
+											[
+												{
+													"children" : [],
+													"Cycles" : 1656,
+													"name" : "std::_Compressed_pair<std::_Wrap_alloc<std::allocator<MSystem *> >,std::_Vector_val<std::_Simple_types<MSystem *> >,1>::_Get_second"
+												}
+											],
+											"Cycles" : 3384,
+											"name" : "std::_Vector_alloc<std::_Vec_base_types<MSystem *,std::allocator<MSystem *> > >::_Get_data"
+										}
+									],
+									"Cycles" : 6552,
+									"name" : "std::_Vector_alloc<std::_Vec_base_types<MSystem *,std::allocator<MSystem *> > >::_Myfirst"
+								},
+								{
+									"children" : 
+									[
+										{
+											"children" : 
+											[
+												{
+													"children" : [],
+													"Cycles" : 1620,
+													"name" : "std::_Compressed_pair<std::_Wrap_alloc<std::allocator<MSystem *> >,std::_Vector_val<std::_Simple_types<MSystem *> >,1>::_Get_second"
+												}
+											],
+											"Cycles" : 3420,
+											"name" : "std::_Vector_alloc<std::_Vec_base_types<MSystem *,std::allocator<MSystem *> > >::_Get_data"
+										},
+										{
+											"children" : 
+											[
+												{
+													"children" : [],
+													"Cycles" : 1656,
+													"name" : "std::addressof<MSystem * const>"
+												}
+											],
+											"Cycles" : 1620,
+											"name" : "std::_Uninitialized_move<MSystem * *,MSystem * *,std::allocator<MSystem *> >"
+										},
+										{
+											"children" : [],
+											"Cycles" : 2916,
+											"name" : "std::addressof<MSystem * const>"
+										},
+										{
+											"children" : 
+											[
+												{
+													"children" : [],
+													"Cycles" : 1656,
+													"name" : "std::addressof<MSystem * const>"
+												},
+												{
+													"children" : 
+													[
+														{
+															"children" : [],
+															"Cycles" : 1728,
+															"name" : "std::_Copy_memmove<MSystem * *,MSystem * *>"
+														}
+													],
+													"Cycles" : 5004,
+													"name" : "std::_Uninitialized_move_al_unchecked1<MSystem *,MSystem *,std::allocator<MSystem *> >"
+												}
+											],
+											"Cycles" : 9936,
+											"name" : "std::_Uninitialized_move_al_unchecked<MSystem * *,MSystem * *,std::allocator<MSystem *> >"
+										},
+										{
+											"children" : [],
+											"Cycles" : 3024,
+											"name" : "std::_Rechecked<MSystem * *,MSystem * *>"
+										}
+									],
+									"Cycles" : 29124,
+									"name" : "std::vector<MSystem *,std::allocator<MSystem *> >::_Umove<MSystem * *>"
+								}
+							],
+							"Cycles" : 54432,
+							"name" : "std::vector<MSystem *,std::allocator<MSystem *> >::_Reallocate"
+						},
+						{
+							"children" : 
+							[
+								{
+									"children" : 
+									[
+										{
+											"children" : 
+											[
+												{
+													"children" : [],
+													"Cycles" : 1692,
+													"name" : "std::_Compressed_pair<std::_Wrap_alloc<std::allocator<MSystem *> >,std::_Vector_val<std::_Simple_types<MSystem *> >,1>::_Get_second"
+												}
+											],
+											"Cycles" : 3420,
+											"name" : "std::_Vector_alloc<std::_Vec_base_types<MSystem *,std::allocator<MSystem *> > >::_Get_data"
+										}
+									],
+									"Cycles" : 5256,
+									"name" : "std::_Vector_alloc<std::_Vec_base_types<MSystem *,std::allocator<MSystem *> > >::_Mylast"
+								},
+								{
+									"children" : 
+									[
+										{
+											"children" : 
+											[
+												{
+													"children" : [],
+													"Cycles" : 1656,
+													"name" : "std::_Compressed_pair<std::_Wrap_alloc<std::allocator<MSystem *> >,std::_Vector_val<std::_Simple_types<MSystem *> >,1>::_Get_second"
+												}
+											],
+											"Cycles" : 3420,
+											"name" : "std::_Vector_alloc<std::_Vec_base_types<MSystem *,std::allocator<MSystem *> > >::_Get_data"
+										}
+									],
+									"Cycles" : 6408,
+									"name" : "std::_Vector_alloc<std::_Vec_base_types<MSystem *,std::allocator<MSystem *> > >::_Myfirst"
+								}
+							],
+							"Cycles" : 14508,
+							"name" : "std::vector<MSystem *,std::allocator<MSystem *> >::size"
+						},
+						{
+							"children" : 
+							[
+								{
+									"children" : 
+									[
+										{
+											"children" : [],
+											"Cycles" : 1620,
+											"name" : "std::_Compressed_pair<std::_Wrap_alloc<std::allocator<MSystem *> >,std::_Vector_val<std::_Simple_types<MSystem *> >,1>::_Get_second"
+										}
+									],
+									"Cycles" : 3420,
+									"name" : "std::_Vector_alloc<std::_Vec_base_types<MSystem *,std::allocator<MSystem *> > >::_Get_data"
+								}
+							],
+							"Cycles" : 5760,
+							"name" : "std::_Vector_alloc<std::_Vec_base_types<MSystem *,std::allocator<MSystem *> > >::_Myfirst"
+						},
+						{
+							"children" : 
+							[
+								{
+									"children" : 
+									[
+										{
+											"children" : [],
+											"Cycles" : 1656,
+											"name" : "std::_Compressed_pair<std::_Wrap_alloc<std::allocator<MSystem *> >,std::_Vector_val<std::_Simple_types<MSystem *> >,1>::_Get_second"
+										}
+									],
+									"Cycles" : 3384,
+									"name" : "std::_Vector_alloc<std::_Vec_base_types<MSystem *,std::allocator<MSystem *> > >::_Get_data"
+								}
+							],
+							"Cycles" : 6768,
+							"name" : "std::_Vector_alloc<std::_Vec_base_types<MSystem *,std::allocator<MSystem *> > >::_Orphan_all"
+						},
+						{
+							"children" : 
+							[
+								{
+									"children" : [],
+									"Cycles" : 1656,
+									"name" : "std::_Compressed_pair<std::_Wrap_alloc<std::allocator<MSystem *> >,std::_Vector_val<std::_Simple_types<MSystem *> >,1>::_Get_second"
+								}
+							],
+							"Cycles" : 3924,
+							"name" : "std::_Vector_alloc<std::_Vec_base_types<MSystem *,std::allocator<MSystem *> > >::_Get_data"
+						}
+					],
+					"Cycles" : 5724,
+					"name" : "std::vector<MSystem *,std::allocator<MSystem *> >::push_back"
+				},
+				{
+					"children" : 
+					[
+						{
+							"children" : 
+							[
+								{
+									"children" : [],
+									"Cycles" : 1656,
+									"name" : "std::_Compressed_pair<std::_Wrap_alloc<std::allocator<MSystem *> >,std::_Vector_val<std::_Simple_types<MSystem *> >,1>::_Get_second"
+								}
+							],
+							"Cycles" : 3348,
+							"name" : "std::_Vector_alloc<std::_Vec_base_types<MSystem *,std::allocator<MSystem *> > >::_Get_data"
+						}
+					],
+					"Cycles" : 6480,
+					"name" : "std::_Vector_alloc<std::_Vec_base_types<MSystem *,std::allocator<MSystem *> > >::_Mylast"
+				},
+				{
+					"children" : 
+					[
+						{
+							"children" : 
+							[
+								{
+									"children" : [],
+									"Cycles" : 1656,
+									"name" : "std::_Compressed_pair<std::_Wrap_alloc<std::allocator<MSystem *> >,std::_Vector_val<std::_Simple_types<MSystem *> >,1>::_Get_second"
+								}
+							],
+							"Cycles" : 3348,
+							"name" : "std::_Vector_alloc<std::_Vec_base_types<MSystem *,std::allocator<MSystem *> > >::_Get_data"
+						}
+					],
+					"Cycles" : 6444,
+					"name" : "std::_Vector_alloc<std::_Vec_base_types<MSystem *,std::allocator<MSystem *> > >::_Myfirst"
+				}
+			],
+			"Cycles" : 258228,
+			"name" : "MeadeorEngine::AddSystem"
+		},
+		{
+			"children" : 
+			[
+				{
+					"children" : 
+					[
+						{
+							"children" : [],
+							"Cycles" : 1620,
+							"name" : "std::_Compressed_pair<std::_Wrap_alloc<std::allocator<MSystem *> >,std::_Vector_val<std::_Simple_types<MSystem *> >,1>::_Get_second"
+						}
+					],
+					"Cycles" : 3348,
+					"name" : "std::_Vector_alloc<std::_Vec_base_types<MSystem *,std::allocator<MSystem *> > >::_Get_data"
+				}
+			],
+			"Cycles" : 5796,
+			"name" : "std::_Vector_alloc<std::_Vec_base_types<MSystem *,std::allocator<MSystem *> > >::_Mylast"
+		},
+		{
+			"children" : 
+			[
+				{
+					"children" : [],
+					"Cycles" : 1656,
+					"name" : "std::_Compressed_pair<std::_Wrap_alloc<std::allocator<MSystem *> >,std::_Vector_val<std::_Simple_types<MSystem *> >,1>::_Get_second"
+				}
+			],
+			"Cycles" : 3996,
+			"name" : "std::_Vector_alloc<std::_Vec_base_types<MSystem *,std::allocator<MSystem *> > >::_Get_data"
+		},
+		{
+			"children" : [],
+			"Cycles" : 2304,
+			"name" : "std::vector<MSystem *,std::allocator<MSystem *> >::_Orphan_range"
+		},
+		{
+			"children" : [],
+			"Cycles" : 2484,
+			"name" : "std::_Compressed_pair<std::_Wrap_alloc<std::allocator<MSystem *> >,std::_Vector_val<std::_Simple_types<MSystem *> >,1>::_Get_second"
+		},
+		{
+			"children" : [],
+			"Cycles" : 2268,
+			"name" : "std::addressof<MSystem * const>"
+		},
+		{
+			"children" : 
+			[
+				{
+					"children" : [],
+					"Cycles" : 7380,
+					"name" : "std::addressof<MSystem * const>"
+				},
+				{
+					"children" : 
+					[
+						{
+							"children" : [],
+							"Cycles" : 1764,
+							"name" : "std::addressof<MSystem * const>"
+						},
+						{
+							"children" : 
+							[
+								{
+									"children" : [],
+									"Cycles" : 1764,
+									"name" : "std::addressof<MSystem * const>"
+								}
+							],
+							"Cycles" : 4788,
+							"name" : "std::allocator<MSystem *>::construct<MSystem *,MSystem * &>"
+						}
+					],
+					"Cycles" : 9756,
+					"name" : "std::allocator_traits<std::allocator<MSystem *> >::construct<MSystem *,MSystem * &>"
+				}
+			],
+			"Cycles" : 21636,
+			"name" : "std::_Wrap_alloc<std::allocator<MSystem *> >::construct<MSystem *,MSystem * const &>"
+		},
+		{
+			"children" : 
+			[
+				{
+					"children" : [],
+					"Cycles" : 1764,
+					"name" : "std::addressof<MSystem * const>"
+				},
+				{
+					"children" : 
+					[
+						{
+							"children" : 
+							[
+								{
+									"children" : 
+									[
+										{
+											"children" : [],
+											"Cycles" : 1692,
+											"name" : "std::_Compressed_pair<std::_Wrap_alloc<std::allocator<MSystem *> >,std::_Vector_val<std::_Simple_types<MSystem *> >,1>::_Get_second"
+										}
+									],
+									"Cycles" : 3528,
+									"name" : "std::_Vector_alloc<std::_Vec_base_types<MSystem *,std::allocator<MSystem *> > >::_Get_data"
+								}
+							],
+							"Cycles" : 5364,
+							"name" : "std::_Vector_alloc<std::_Vec_base_types<MSystem *,std::allocator<MSystem *> > >::_Mylast"
+						},
+						{
+							"children" : [],
+							"Cycles" : 2916,
+							"name" : "std::addressof<MSystem * const>"
+						},
+						{
+							"children" : 
+							[
+								{
+									"children" : 
+									[
+										{
+											"children" : [],
+											"Cycles" : 1764,
+											"name" : "std::_Compressed_pair<std::_Wrap_alloc<std::allocator<MSystem *> >,std::_Vector_val<std::_Simple_types<MSystem *> >,1>::_Get_second"
+										}
+									],
+									"Cycles" : 3528,
+									"name" : "std::_Vector_alloc<std::_Vec_base_types<MSystem *,std::allocator<MSystem *> > >::_Get_data"
+								}
+							],
+							"Cycles" : 6516,
+							"name" : "std::_Vector_alloc<std::_Vec_base_types<MSystem *,std::allocator<MSystem *> > >::_Myfirst"
+						}
+					],
+					"Cycles" : 1656,
+					"name" : "std::vector<MSystem *,std::allocator<MSystem *> >::_Inside"
+				}
+			],
+			"Cycles" : 23832,
+			"name" : "std::vector<MSystem *,std::allocator<MSystem *> >::push_back"
+		},
+		{
+			"children" : 
+			[
+				{
+					"children" : 
+					[
+						{
+							"children" : [],
+							"Cycles" : 1728,
+							"name" : "std::_Compressed_pair<std::_Wrap_alloc<std::allocator<MSystem *> >,std::_Vector_val<std::_Simple_types<MSystem *> >,1>::_Get_second"
+						}
+					],
+					"Cycles" : 3420,
+					"name" : "std::_Vector_alloc<std::_Vec_base_types<MSystem *,std::allocator<MSystem *> > >::_Get_data"
+				}
+			],
+			"Cycles" : 5832,
+			"name" : "std::_Vector_alloc<std::_Vec_base_types<MSystem *,std::allocator<MSystem *> > >::_Myend"
+		},
+		{
+			"children" : 
+			[
+				{
+					"children" : 
+					[
+						{
+							"children" : 
+							[
+								{
+									"children" : 
+									[
+										{
+											"children" : [],
+											"Cycles" : 1764,
+											"name" : "std::_Compressed_pair<std::_Wrap_alloc<std::allocator<MSystem *> >,std::_Vector_val<std::_Simple_types<MSystem *> >,1>::_Get_second"
+										}
+									],
+									"Cycles" : 3456,
+									"name" : "std::_Vector_alloc<std::_Vec_base_types<MSystem *,std::allocator<MSystem *> > >::_Get_data"
+								}
+							],
+							"Cycles" : 5112,
+							"name" : "std::_Vector_alloc<std::_Vec_base_types<MSystem *,std::allocator<MSystem *> > >::_Myend"
+						},
+						{
+							"children" : 
+							[
+								{
+									"children" : 
+									[
+										{
+											"children" : [],
+											"Cycles" : 1620,
+											"name" : "std::_Compressed_pair<std::_Wrap_alloc<std::allocator<MSystem *> >,std::_Vector_val<std::_Simple_types<MSystem *> >,1>::_Get_second"
+										}
+									],
+									"Cycles" : 3420,
+									"name" : "std::_Vector_alloc<std::_Vec_base_types<MSystem *,std::allocator<MSystem *> > >::_Get_data"
+								}
+							],
+							"Cycles" : 6372,
+							"name" : "std::_Vector_alloc<std::_Vec_base_types<MSystem *,std::allocator<MSystem *> > >::_Mylast"
+						}
+					],
+					"Cycles" : 13356,
+					"name" : "std::vector<MSystem *,std::allocator<MSystem *> >::_Unused_capacity"
+				},
+				{
+					"children" : 
+					[
+						{
+							"children" : 
+							[
+								{
+									"children" : [],
+									"Cycles" : 1656,
+									"name" : "std::_Compressed_pair<std::_Wrap_alloc<std::allocator<MSystem *> >,std::_Vector_val<std::_Simple_types<MSystem *> >,1>::_Get_second"
+								}
+							],
+							"Cycles" : 3384,
+							"name" : "std::_Vector_alloc<std::_Vec_base_types<MSystem *,std::allocator<MSystem *> > >::_Get_data"
+						},
+						{
+							"children" : 
+							[
+								{
+									"children" : 
+									[
+										{
+											"children" : [],
+											"Cycles" : 1764,
+											"name" : "std::allocator<MSystem *>::max_size"
+										}
+									],
+									"Cycles" : 3564,
+									"name" : "std::allocator_traits<std::allocator<MSystem *> >::max_size"
+								}
+							],
+							"Cycles" : 6480,
+							"name" : "std::_Wrap_alloc<std::allocator<MSystem *> >::max_size"
+						}
+					],
+					"Cycles" : 12924,
+					"name" : "std::vector<MSystem *,std::allocator<MSystem *> >::max_size"
+				},
+				{
+					"children" : 
+					[
+						{
+							"children" : 
+							[
+								{
+									"children" : 
+									[
+										{
+											"children" : [],
+											"Cycles" : 1728,
+											"name" : "std::_Compressed_pair<std::_Wrap_alloc<std::allocator<MSystem *> >,std::_Vector_val<std::_Simple_types<MSystem *> >,1>::_Get_second"
+										}
+									],
+									"Cycles" : 3492,
+									"name" : "std::_Vector_alloc<std::_Vec_base_types<MSystem *,std::allocator<MSystem *> > >::_Get_data"
+								}
+							],
+							"Cycles" : 5256,
+							"name" : "std::_Vector_alloc<std::_Vec_base_types<MSystem *,std::allocator<MSystem *> > >::_Mylast"
+						},
+						{
+							"children" : 
+							[
+								{
+									"children" : 
+									[
+										{
+											"children" : [],
+											"Cycles" : 1620,
+											"name" : "std::_Compressed_pair<std::_Wrap_alloc<std::allocator<MSystem *> >,std::_Vector_val<std::_Simple_types<MSystem *> >,1>::_Get_second"
+										}
+									],
+									"Cycles" : 3420,
+									"name" : "std::_Vector_alloc<std::_Vec_base_types<MSystem *,std::allocator<MSystem *> > >::_Get_data"
+								}
+							],
+							"Cycles" : 6300,
+							"name" : "std::_Vector_alloc<std::_Vec_base_types<MSystem *,std::allocator<MSystem *> > >::_Myfirst"
+						}
+					],
+					"Cycles" : 14652,
+					"name" : "std::vector<MSystem *,std::allocator<MSystem *> >::size"
+				},
+				{
+					"children" : 
+					[
+						{
+							"children" : 
+							[
+								{
+									"children" : [],
+									"Cycles" : 1656,
+									"name" : "std::_Compressed_pair<std::_Wrap_alloc<std::allocator<MSystem *> >,std::_Vector_val<std::_Simple_types<MSystem *> >,1>::_Get_second"
+								}
+							],
+							"Cycles" : 3420,
+							"name" : "std::_Vector_alloc<std::_Vec_base_types<MSystem *,std::allocator<MSystem *> > >::_Get_data"
+						}
+					],
+					"Cycles" : 6552,
+					"name" : "std::_Vector_alloc<std::_Vec_base_types<MSystem *,std::allocator<MSystem *> > >::_Mylast"
+				},
+				{
+					"children" : 
+					[
+						{
+							"children" : 
+							[
+								{
+									"children" : [],
+									"Cycles" : 1620,
+									"name" : "std::_Compressed_pair<std::_Wrap_alloc<std::allocator<MSystem *> >,std::_Vector_val<std::_Simple_types<MSystem *> >,1>::_Get_second"
+								}
+							],
+							"Cycles" : 3348,
+							"name" : "std::_Vector_alloc<std::_Vec_base_types<MSystem *,std::allocator<MSystem *> > >::_Get_data"
+						}
+					],
+					"Cycles" : 6480,
+					"name" : "std::_Vector_alloc<std::_Vec_base_types<MSystem *,std::allocator<MSystem *> > >::_Myfirst"
+				}
+			],
+			"Cycles" : 14868,
+			"name" : "std::vector<MSystem *,std::allocator<MSystem *> >::_Reserve"
+		},
+		{
+			"children" : 
+			[
+				{
+					"children" : 
+					[
+						{
+							"children" : 
+							[
+								{
+									"children" : 
+									[
+										{
+											"children" : [],
+											"Cycles" : 1620,
+											"name" : "std::_Compressed_pair<std::_Wrap_alloc<std::allocator<MSystem *> >,std::_Vector_val<std::_Simple_types<MSystem *> >,1>::_Get_second"
+										}
+									],
+									"Cycles" : 3528,
+									"name" : "std::_Vector_alloc<std::_Vec_base_types<MSystem *,std::allocator<MSystem *> > >::_Get_data"
+								}
+							],
+							"Cycles" : 5580,
+							"name" : "std::_Vector_alloc<std::_Vec_base_types<MSystem *,std::allocator<MSystem *> > >::_Myend"
+						},
+						{
+							"children" : 
+							[
+								{
+									"children" : 
+									[
+										{
+											"children" : [],
+											"Cycles" : 1620,
+											"name" : "std::_Compressed_pair<std::_Wrap_alloc<std::allocator<MSystem *> >,std::_Vector_val<std::_Simple_types<MSystem *> >,1>::_Get_second"
+										}
+									],
+									"Cycles" : 3384,
+									"name" : "std::_Vector_alloc<std::_Vec_base_types<MSystem *,std::allocator<MSystem *> > >::_Get_data"
+								}
+							],
+							"Cycles" : 6372,
+							"name" : "std::_Vector_alloc<std::_Vec_base_types<MSystem *,std::allocator<MSystem *> > >::_Myfirst"
+						}
+					],
+					"Cycles" : 13788,
+					"name" : "std::vector<MSystem *,std::allocator<MSystem *> >::capacity"
+				},
+				{
+					"children" : 
+					[
+						{
+							"children" : 
+							[
+								{
+									"children" : [],
+									"Cycles" : 1656,
+									"name" : "std::_Compressed_pair<std::_Wrap_alloc<std::allocator<MSystem *> >,std::_Vector_val<std::_Simple_types<MSystem *> >,1>::_Get_second"
+								}
+							],
+							"Cycles" : 3348,
+							"name" : "std::_Vector_alloc<std::_Vec_base_types<MSystem *,std::allocator<MSystem *> > >::_Get_data"
+						},
+						{
+							"children" : 
+							[
+								{
+									"children" : 
+									[
+										{
+											"children" : [],
+											"Cycles" : 1620,
+											"name" : "std::allocator<MSystem *>::max_size"
+										}
+									],
+									"Cycles" : 3312,
+									"name" : "std::allocator_traits<std::allocator<MSystem *> >::max_size"
+								}
+							],
+							"Cycles" : 6264,
+							"name" : "std::_Wrap_alloc<std::allocator<MSystem *> >::max_size"
+						}
+					],
+					"Cycles" : 12744,
+					"name" : "std::vector<MSystem *,std::allocator<MSystem *> >::max_size"
+				}
+			],
+			"Cycles" : 30060,
+			"name" : "std::vector<MSystem *,std::allocator<MSystem *> >::_Grow_to"
+		},
+		{
+			"children" : 
+			[
+				{
+					"children" : 
+					[
+						{
+							"children" : [],
+							"Cycles" : 1620,
+							"name" : "std::_Compressed_pair<std::_Wrap_alloc<std::allocator<MSystem *> >,std::_Vector_val<std::_Simple_types<MSystem *> >,1>::_Get_second"
+						}
+					],
+					"Cycles" : 3312,
+					"name" : "std::_Vector_alloc<std::_Vec_base_types<MSystem *,std::allocator<MSystem *> > >::_Get_data"
+				},
+				{
+					"children" : 
+					[
+						{
+							"children" : [],
+							"Cycles" : 6552,
+							"name" : "std::allocator<MSystem *>::allocate"
+						}
+					],
+					"Cycles" : 9468,
+					"name" : "std::_Wrap_alloc<std::allocator<MSystem *> >::allocate"
+				},
+				{
+					"children" : 
+					[
+						{
+							"children" : 
+							[
+								{
+									"children" : [],
+									"Cycles" : 1620,
+									"name" : "std::_Compressed_pair<std::_Wrap_alloc<std::allocator<MSystem *> >,std::_Vector_val<std::_Simple_types<MSystem *> >,1>::_Get_second"
+								}
+							],
+							"Cycles" : 3348,
+							"name" : "std::_Vector_alloc<std::_Vec_base_types<MSystem *,std::allocator<MSystem *> > >::_Get_data"
+						}
+					],
+					"Cycles" : 6444,
+					"name" : "std::_Vector_alloc<std::_Vec_base_types<MSystem *,std::allocator<MSystem *> > >::_Mylast"
+				},
+				{
+					"children" : 
+					[
+						{
+							"children" : 
+							[
+								{
+									"children" : [],
+									"Cycles" : 1620,
+									"name" : "std::_Compressed_pair<std::_Wrap_alloc<std::allocator<MSystem *> >,std::_Vector_val<std::_Simple_types<MSystem *> >,1>::_Get_second"
+								}
+							],
+							"Cycles" : 3348,
+							"name" : "std::_Vector_alloc<std::_Vec_base_types<MSystem *,std::allocator<MSystem *> > >::_Get_data"
+						}
+					],
+					"Cycles" : 6516,
+					"name" : "std::_Vector_alloc<std::_Vec_base_types<MSystem *,std::allocator<MSystem *> > >::_Myfirst"
+				},
+				{
+					"children" : 
+					[
+						{
+							"children" : 
+							[
+								{
+									"children" : [],
+									"Cycles" : 1656,
+									"name" : "std::_Compressed_pair<std::_Wrap_alloc<std::allocator<MSystem *> >,std::_Vector_val<std::_Simple_types<MSystem *> >,1>::_Get_second"
+								}
+							],
+							"Cycles" : 3348,
+							"name" : "std::_Vector_alloc<std::_Vec_base_types<MSystem *,std::allocator<MSystem *> > >::_Get_data"
+						},
+						{
+							"children" : 
+							[
+								{
+									"children" : [],
+									"Cycles" : 1692,
+									"name" : "std::addressof<MSystem * const>"
+								}
+							],
+							"Cycles" : 1440,
+							"name" : "std::_Uninitialized_move<MSystem * *,MSystem * *,std::allocator<MSystem *> >"
+						},
+						{
+							"children" : [],
+							"Cycles" : 2916,
+							"name" : "std::addressof<MSystem * const>"
+						},
+						{
+							"children" : 
+							[
+								{
+									"children" : [],
+									"Cycles" : 1728,
+									"name" : "std::addressof<MSystem * const>"
+								},
+								{
+									"children" : 
+									[
+										{
+											"children" : [],
+											"Cycles" : 1764,
+											"name" : "std::_Copy_memmove<MSystem * *,MSystem * *>"
+										}
+									],
+									"Cycles" : 4716,
+									"name" : "std::_Uninitialized_move_al_unchecked1<MSystem *,MSystem *,std::allocator<MSystem *> >"
+								}
+							],
+							"Cycles" : 9576,
+							"name" : "std::_Uninitialized_move_al_unchecked<MSystem * *,MSystem * *,std::allocator<MSystem *> >"
+						},
+						{
+							"children" : [],
+							"Cycles" : 3024,
+							"name" : "std::_Rechecked<MSystem * *,MSystem * *>"
+						}
+					],
+					"Cycles" : 28368,
+					"name" : "std::vector<MSystem *,std::allocator<MSystem *> >::_Umove<MSystem * *>"
+				}
+			],
+			"Cycles" : 56844,
+			"name" : "std::vector<MSystem *,std::allocator<MSystem *> >::_Reallocate"
+		},
+		{
+			"children" : 
+			[
+				{
+					"children" : 
+					[
+						{
+							"children" : 
+							[
+								{
+									"children" : [],
+									"Cycles" : 1656,
+									"name" : "std::_Compressed_pair<std::_Wrap_alloc<std::allocator<MSystem *> >,std::_Vector_val<std::_Simple_types<MSystem *> >,1>::_Get_second"
+								}
+							],
+							"Cycles" : 3348,
+							"name" : "std::_Vector_alloc<std::_Vec_base_types<MSystem *,std::allocator<MSystem *> > >::_Get_data"
+						}
+					],
+					"Cycles" : 5076,
+					"name" : "std::_Vector_alloc<std::_Vec_base_types<MSystem *,std::allocator<MSystem *> > >::_Mylast"
+				},
+				{
+					"children" : 
+					[
+						{
+							"children" : 
+							[
+								{
+									"children" : [],
+									"Cycles" : 1620,
+									"name" : "std::_Compressed_pair<std::_Wrap_alloc<std::allocator<MSystem *> >,std::_Vector_val<std::_Simple_types<MSystem *> >,1>::_Get_second"
+								}
+							],
+							"Cycles" : 3348,
+							"name" : "std::_Vector_alloc<std::_Vec_base_types<MSystem *,std::allocator<MSystem *> > >::_Get_data"
+						}
+					],
+					"Cycles" : 6264,
+					"name" : "std::_Vector_alloc<std::_Vec_base_types<MSystem *,std::allocator<MSystem *> > >::_Myfirst"
+				}
+			],
+			"Cycles" : 14796,
+			"name" : "std::vector<MSystem *,std::allocator<MSystem *> >::size"
+		},
+		{
+			"children" : 
+			[
+				{
+					"children" : 
+					[
+						{
+							"children" : [],
+							"Cycles" : 1620,
+							"name" : "std::_Compressed_pair<std::_Wrap_alloc<std::allocator<MSystem *> >,std::_Vector_val<std::_Simple_types<MSystem *> >,1>::_Get_second"
+						}
+					],
+					"Cycles" : 3348,
+					"name" : "std::_Vector_alloc<std::_Vec_base_types<MSystem *,std::allocator<MSystem *> > >::_Get_data"
+				}
+			],
+			"Cycles" : 6048,
+			"name" : "std::_Vector_alloc<std::_Vec_base_types<MSystem *,std::allocator<MSystem *> > >::_Myfirst"
+		},
+		{
+			"children" : 
+			[
+				{
+					"children" : 
+					[
+						{
+							"children" : [],
+							"Cycles" : 1728,
+							"name" : "std::_Compressed_pair<std::_Wrap_alloc<std::allocator<MSystem *> >,std::_Vector_val<std::_Simple_types<MSystem *> >,1>::_Get_second"
+						}
+					],
+					"Cycles" : 3456,
+					"name" : "std::_Vector_alloc<std::_Vec_base_types<MSystem *,std::allocator<MSystem *> > >::_Get_data"
+				},
+				{
+					"children" : 
+					[
+						{
+							"children" : [],
+							"Cycles" : 1872,
+							"name" : "std::_Destroy_range1<std::allocator<MSystem *>,MSystem * *>"
+						}
+					],
+					"Cycles" : 5004,
+					"name" : "std::_Destroy_range<std::allocator<MSystem *>,MSystem * *>"
+				}
+			],
+			"Cycles" : 11268,
+			"name" : "std::vector<MSystem *,std::allocator<MSystem *> >::_Destroy"
+		},
+		{
+			"children" : 
+			[
+				{
+					"children" : [],
+					"Cycles" : 1908,
+					"name" : "std::allocator<MSystem *>::deallocate"
+				}
+			],
+			"Cycles" : 6084,
+			"name" : "std::_Wrap_alloc<std::allocator<MSystem *> >::deallocate"
+		},
+		{
+			"children" : 
+			[
+				{
+					"children" : 
+					[
+						{
+							"children" : [],
+							"Cycles" : 1836,
+							"name" : "std::_Compressed_pair<std::_Wrap_alloc<std::allocator<MSystem *> >,std::_Vector_val<std::_Simple_types<MSystem *> >,1>::_Get_second"
+						}
+					],
+					"Cycles" : 3636,
+					"name" : "std::_Vector_alloc<std::_Vec_base_types<MSystem *,std::allocator<MSystem *> > >::_Get_data"
+				}
+			],
+			"Cycles" : 7308,
+			"name" : "std::_Vector_alloc<std::_Vec_base_types<MSystem *,std::allocator<MSystem *> > >::_Orphan_all"
+		},
+		{
+			"children" : 
+			[
+				{
+					"children" : [],
+					"Cycles" : 1728,
+					"name" : "std::addressof<MSystem * const>"
+				},
+				{
+					"children" : 
+					[
+						{
+							"children" : [],
+							"Cycles" : 1692,
+							"name" : "std::addressof<MSystem * const>"
+						}
+					],
+					"Cycles" : 4752,
+					"name" : "std::allocator<MSystem *>::construct<MSystem *,MSystem * &>"
+				}
+			],
+			"Cycles" : 9036,
+			"name" : "std::allocator_traits<std::allocator<MSystem *> >::construct<MSystem *,MSystem * &>"
+		},
+		{
+			"children" : 
+			[
+				{
+					"children" : 
+					[
+						{
+							"children" : 
+							[
+								{
+									"children" : [],
+									"Cycles" : 1728,
+									"name" : "std::_Compressed_pair<std::_Wrap_alloc<std::allocator<MSystem *> >,std::_Vector_val<std::_Simple_types<MSystem *> >,1>::_Get_second"
+								}
+							],
+							"Cycles" : 3456,
+							"name" : "std::_Vector_alloc<std::_Vec_base_types<MSystem *,std::allocator<MSystem *> > >::_Get_data"
+						}
+					],
+					"Cycles" : 5184,
+					"name" : "std::_Vector_alloc<std::_Vec_base_types<MSystem *,std::allocator<MSystem *> > >::_Mylast"
+				},
+				{
+					"children" : [],
+					"Cycles" : 2988,
+					"name" : "std::addressof<MSystem * const>"
+				},
+				{
+					"children" : 
+					[
+						{
+							"children" : 
+							[
+								{
+									"children" : [],
+									"Cycles" : 1728,
+									"name" : "std::_Compressed_pair<std::_Wrap_alloc<std::allocator<MSystem *> >,std::_Vector_val<std::_Simple_types<MSystem *> >,1>::_Get_second"
+								}
+							],
+							"Cycles" : 3492,
+							"name" : "std::_Vector_alloc<std::_Vec_base_types<MSystem *,std::allocator<MSystem *> > >::_Get_data"
+						}
+					],
+					"Cycles" : 6588,
+					"name" : "std::_Vector_alloc<std::_Vec_base_types<MSystem *,std::allocator<MSystem *> > >::_Myfirst"
+				}
+			],
+			"Cycles" : 1584,
+			"name" : "std::vector<MSystem *,std::allocator<MSystem *> >::_Inside"
+		},
+		{
+			"children" : 
+			[
+				{
+					"children" : 
+					[
+						{
+							"children" : 
+							[
+								{
+									"children" : [],
+									"Cycles" : 1692,
+									"name" : "std::_Compressed_pair<std::_Wrap_alloc<std::allocator<MSystem *> >,std::_Vector_val<std::_Simple_types<MSystem *> >,1>::_Get_second"
+								}
+							],
+							"Cycles" : 3384,
+							"name" : "std::_Vector_alloc<std::_Vec_base_types<MSystem *,std::allocator<MSystem *> > >::_Get_data"
+						}
+					],
+					"Cycles" : 5148,
+					"name" : "std::_Vector_alloc<std::_Vec_base_types<MSystem *,std::allocator<MSystem *> > >::_Myend"
+				},
+				{
+					"children" : 
+					[
+						{
+							"children" : 
+							[
+								{
+									"children" : [],
+									"Cycles" : 1728,
+									"name" : "std::_Compressed_pair<std::_Wrap_alloc<std::allocator<MSystem *> >,std::_Vector_val<std::_Simple_types<MSystem *> >,1>::_Get_second"
+								}
+							],
+							"Cycles" : 3492,
+							"name" : "std::_Vector_alloc<std::_Vec_base_types<MSystem *,std::allocator<MSystem *> > >::_Get_data"
+						}
+					],
+					"Cycles" : 6552,
+					"name" : "std::_Vector_alloc<std::_Vec_base_types<MSystem *,std::allocator<MSystem *> > >::_Mylast"
+				}
+			],
+			"Cycles" : 14328,
+			"name" : "std::vector<MSystem *,std::allocator<MSystem *> >::_Unused_capacity"
+		},
+		{
+			"children" : 
+			[
+				{
+					"children" : 
+					[
+						{
+							"children" : [],
+							"Cycles" : 1692,
+							"name" : "std::_Compressed_pair<std::_Wrap_alloc<std::allocator<MSystem *> >,std::_Vector_val<std::_Simple_types<MSystem *> >,1>::_Get_second"
+						}
+					],
+					"Cycles" : 3492,
+					"name" : "std::_Vector_alloc<std::_Vec_base_types<MSystem *,std::allocator<MSystem *> > >::_Get_data"
+				},
+				{
+					"children" : 
+					[
+						{
+							"children" : 
+							[
+								{
+									"children" : [],
+									"Cycles" : 1620,
+									"name" : "std::allocator<MSystem *>::max_size"
+								}
+							],
+							"Cycles" : 3384,
+							"name" : "std::allocator_traits<std::allocator<MSystem *> >::max_size"
+						}
+					],
+					"Cycles" : 6408,
+					"name" : "std::_Wrap_alloc<std::allocator<MSystem *> >::max_size"
+				}
+			],
+			"Cycles" : 12636,
+			"name" : "std::vector<MSystem *,std::allocator<MSystem *> >::max_size"
+		},
+		{
+			"children" : 
+			[
+				{
+					"children" : 
+					[
+						{
+							"children" : 
+							[
+								{
+									"children" : [],
+									"Cycles" : 1728,
+									"name" : "std::_Compressed_pair<std::_Wrap_alloc<std::allocator<MSystem *> >,std::_Vector_val<std::_Simple_types<MSystem *> >,1>::_Get_second"
+								}
+							],
+							"Cycles" : 3420,
+							"name" : "std::_Vector_alloc<std::_Vec_base_types<MSystem *,std::allocator<MSystem *> > >::_Get_data"
+						}
+					],
+					"Cycles" : 5220,
+					"name" : "std::_Vector_alloc<std::_Vec_base_types<MSystem *,std::allocator<MSystem *> > >::_Myend"
+				},
+				{
+					"children" : 
+					[
+						{
+							"children" : 
+							[
+								{
+									"children" : [],
+									"Cycles" : 1692,
+									"name" : "std::_Compressed_pair<std::_Wrap_alloc<std::allocator<MSystem *> >,std::_Vector_val<std::_Simple_types<MSystem *> >,1>::_Get_second"
+								}
+							],
+							"Cycles" : 3528,
+							"name" : "std::_Vector_alloc<std::_Vec_base_types<MSystem *,std::allocator<MSystem *> > >::_Get_data"
+						}
+					],
+					"Cycles" : 6516,
+					"name" : "std::_Vector_alloc<std::_Vec_base_types<MSystem *,std::allocator<MSystem *> > >::_Myfirst"
+				}
+			],
+			"Cycles" : 19368,
+			"name" : "std::vector<MSystem *,std::allocator<MSystem *> >::capacity"
+		},
+		{
+			"children" : 
+			[
+				{
+					"children" : 
+					[
+						{
+							"children" : [],
+							"Cycles" : 1620,
+							"name" : "std::allocator<MSystem *>::max_size"
+						}
+					],
+					"Cycles" : 3348,
+					"name" : "std::allocator_traits<std::allocator<MSystem *> >::max_size"
+				}
+			],
+			"Cycles" : 6012,
+			"name" : "std::_Wrap_alloc<std::allocator<MSystem *> >::max_size"
+		},
+		{
+			"children" : 
+			[
+				{
+					"children" : [],
+					"Cycles" : 1908,
+					"name" : "std::allocator<MSystem *>::allocate"
+				}
+			],
+			"Cycles" : 4536,
+			"name" : "std::_Wrap_alloc<std::allocator<MSystem *> >::allocate"
+		},
+		{
+			"children" : 
+			[
+				{
+					"children" : 
+					[
+						{
+							"children" : [],
+							"Cycles" : 1764,
+							"name" : "std::_Compressed_pair<std::_Wrap_alloc<std::allocator<MSystem *> >,std::_Vector_val<std::_Simple_types<MSystem *> >,1>::_Get_second"
+						}
+					],
+					"Cycles" : 3492,
+					"name" : "std::_Vector_alloc<std::_Vec_base_types<MSystem *,std::allocator<MSystem *> > >::_Get_data"
+				},
+				{
+					"children" : 
+					[
+						{
+							"children" : [],
+							"Cycles" : 1764,
+							"name" : "std::addressof<MSystem * const>"
+						}
+					],
+					"Cycles" : 1548,
+					"name" : "std::_Uninitialized_move<MSystem * *,MSystem * *,std::allocator<MSystem *> >"
+				},
+				{
+					"children" : [],
+					"Cycles" : 2952,
+					"name" : "std::addressof<MSystem * const>"
+				},
+				{
+					"children" : 
+					[
+						{
+							"children" : [],
+							"Cycles" : 1764,
+							"name" : "std::addressof<MSystem * const>"
+						},
+						{
+							"children" : 
+							[
+								{
+									"children" : [],
+									"Cycles" : 1800,
+									"name" : "std::_Copy_memmove<MSystem * *,MSystem * *>"
+								}
+							],
+							"Cycles" : 4788,
+							"name" : "std::_Uninitialized_move_al_unchecked1<MSystem *,MSystem *,std::allocator<MSystem *> >"
+						}
+					],
+					"Cycles" : 9720,
+					"name" : "std::_Uninitialized_move_al_unchecked<MSystem * *,MSystem * *,std::allocator<MSystem *> >"
+				},
+				{
+					"children" : [],
+					"Cycles" : 2988,
+					"name" : "std::_Rechecked<MSystem * *,MSystem * *>"
+				}
+			],
+			"Cycles" : 28620,
+			"name" : "std::vector<MSystem *,std::allocator<MSystem *> >::_Umove<MSystem * *>"
+		},
+		{
+			"children" : 
+			[
+				{
+					"children" : [],
+					"Cycles" : 1728,
+					"name" : "std::_Destroy_range1<std::allocator<MSystem *>,MSystem * *>"
+				}
+			],
+			"Cycles" : 4356,
+			"name" : "std::_Destroy_range<std::allocator<MSystem *>,MSystem * *>"
+		},
+		{
+			"children" : [],
+			"Cycles" : 3240,
+			"name" : "std::allocator<MSystem *>::deallocate"
+		},
+		{
+			"children" : 
+			[
+				{
+					"children" : [],
+					"Cycles" : 1692,
+					"name" : "std::addressof<MSystem * const>"
+				}
+			],
+			"Cycles" : 4788,
+			"name" : "std::allocator<MSystem *>::construct<MSystem *,MSystem * &>"
+		},
+		{
+			"children" : 
+			[
+				{
+					"children" : [],
+					"Cycles" : 1764,
+					"name" : "std::allocator<MSystem *>::max_size"
+				}
+			],
+			"Cycles" : 4500,
+			"name" : "std::allocator_traits<std::allocator<MSystem *> >::max_size"
+		},
+		{
+			"children" : [],
+			"Cycles" : 5904,
+			"name" : "std::allocator<MSystem *>::max_size"
+		},
+		{
+			"children" : [],
+			"Cycles" : 3060,
+			"name" : "std::allocator<MSystem *>::allocate"
+		},
+		{
+			"children" : 
+			[
+				{
+					"children" : [],
+					"Cycles" : 1800,
+					"name" : "std::addressof<MSystem * const>"
+				}
+			],
+			"Cycles" : 1548,
+			"name" : "std::_Uninitialized_move<MSystem * *,MSystem * *,std::allocator<MSystem *> >"
+		},
+		{
+			"children" : 
+			[
+				{
+					"children" : [],
+					"Cycles" : 1728,
+					"name" : "std::addressof<MSystem * const>"
+				},
+				{
+					"children" : 
+					[
+						{
+							"children" : [],
+							"Cycles" : 1800,
+							"name" : "std::_Copy_memmove<MSystem * *,MSystem * *>"
+						}
+					],
+					"Cycles" : 4860,
+					"name" : "std::_Uninitialized_move_al_unchecked1<MSystem *,MSystem *,std::allocator<MSystem *> >"
+				}
+			],
+			"Cycles" : 9684,
+			"name" : "std::_Uninitialized_move_al_unchecked<MSystem * *,MSystem * *,std::allocator<MSystem *> >"
+		},
+		{
+			"children" : [],
+			"Cycles" : 2916,
+			"name" : "std::_Rechecked<MSystem * *,MSystem * *>"
+		},
+		{
+			"children" : [],
+			"Cycles" : 2592,
+			"name" : "std::_Destroy_range1<std::allocator<MSystem *>,MSystem * *>"
+		},
+		{
+			"children" : 
+			[
+				{
+					"children" : [],
+					"Cycles" : 1800,
+					"name" : "std::_Copy_memmove<MSystem * *,MSystem * *>"
+				}
+			],
+			"Cycles" : 4608,
+			"name" : "std::_Uninitialized_move_al_unchecked1<MSystem *,MSystem *,std::allocator<MSystem *> >"
+		},
+		{
+			"children" : 
+			[
+				{
+					"children" : [],
+					"Cycles" : 2160,
+					"name" : "MeadeorEngine::__autoclassinit2"
+				},
+				{
+					"children" : 
+					[
+						{
+							"children" : [],
+							"Cycles" : 1800,
+							"name" : "std::_Vector_const_iterator<std::_Vector_val<std::_Simple_types<MSystem *> > >::_Vector_const_iterator<std::_Vector_val<std::_Simple_types<MSystem *> > >"
+						}
+					],
+					"Cycles" : 4824,
+					"name" : "std::_Vector_iterator<std::_Vector_val<std::_Simple_types<MSystem *> > >::_Vector_iterator<std::_Vector_val<std::_Simple_types<MSystem *> > >"
+				},
+				{
+					"children" : 
+					[
+						{
+							"children" : 
+							[
+								{
+									"children" : [],
+									"Cycles" : 1800,
+									"name" : "std::_Compressed_pair<std::_Wrap_alloc<std::allocator<MSystem *> >,std::_Vector_val<std::_Simple_types<MSystem *> >,1>::_Get_second"
+								}
+							],
+							"Cycles" : 3600,
+							"name" : "std::_Vector_alloc<std::_Vec_base_types<MSystem *,std::allocator<MSystem *> > >::_Get_data"
+						},
+						{
+							"children" : 
+							[
+								{
+									"children" : 
+									[
+										{
+											"children" : [],
+											"Cycles" : 1728,
+											"name" : "std::_Compressed_pair<std::_Wrap_alloc<std::allocator<MSystem *> >,std::_Vector_val<std::_Simple_types<MSystem *> >,1>::_Get_second"
+										}
+									],
+									"Cycles" : 3564,
+									"name" : "std::_Vector_alloc<std::_Vec_base_types<MSystem *,std::allocator<MSystem *> > >::_Get_data"
+								}
+							],
+							"Cycles" : 6480,
+							"name" : "std::_Vector_alloc<std::_Vec_base_types<MSystem *,std::allocator<MSystem *> > >::_Myfirst"
+						},
+						{
+							"children" : 
+							[
+								{
+									"children" : [],
+									"Cycles" : 1764,
+									"name" : "std::_Vector_const_iterator<std::_Vector_val<std::_Simple_types<MSystem *> > >::_Vector_const_iterator<std::_Vector_val<std::_Simple_types<MSystem *> > >"
+								}
+							],
+							"Cycles" : 4824,
+							"name" : "std::_Vector_iterator<std::_Vector_val<std::_Simple_types<MSystem *> > >::_Vector_iterator<std::_Vector_val<std::_Simple_types<MSystem *> > >"
+						}
+					],
+					"Cycles" : 18144,
+					"name" : "std::vector<MSystem *,std::allocator<MSystem *> >::begin"
+				},
+				{
+					"children" : 
+					[
+						{
+							"children" : 
+							[
+								{
+									"children" : [],
+									"Cycles" : 1728,
+									"name" : "std::_Compressed_pair<std::_Wrap_alloc<std::allocator<MSystem *> >,std::_Vector_val<std::_Simple_types<MSystem *> >,1>::_Get_second"
+								}
+							],
+							"Cycles" : 3528,
+							"name" : "std::_Vector_alloc<std::_Vec_base_types<MSystem *,std::allocator<MSystem *> > >::_Get_data"
+						},
+						{
+							"children" : 
+							[
+								{
+									"children" : 
+									[
+										{
+											"children" : [],
+											"Cycles" : 1692,
+											"name" : "std::_Compressed_pair<std::_Wrap_alloc<std::allocator<MSystem *> >,std::_Vector_val<std::_Simple_types<MSystem *> >,1>::_Get_second"
+										}
+									],
+									"Cycles" : 3492,
+									"name" : "std::_Vector_alloc<std::_Vec_base_types<MSystem *,std::allocator<MSystem *> > >::_Get_data"
+								}
+							],
+							"Cycles" : 6408,
+							"name" : "std::_Vector_alloc<std::_Vec_base_types<MSystem *,std::allocator<MSystem *> > >::_Mylast"
+						},
+						{
+							"children" : 
+							[
+								{
+									"children" : [],
+									"Cycles" : 1764,
+									"name" : "std::_Vector_const_iterator<std::_Vector_val<std::_Simple_types<MSystem *> > >::_Vector_const_iterator<std::_Vector_val<std::_Simple_types<MSystem *> > >"
+								}
+							],
+							"Cycles" : 4680,
+							"name" : "std::_Vector_iterator<std::_Vector_val<std::_Simple_types<MSystem *> > >::_Vector_iterator<std::_Vector_val<std::_Simple_types<MSystem *> > >"
+						}
+					],
+					"Cycles" : 17856,
+					"name" : "std::vector<MSystem *,std::allocator<MSystem *> >::end"
+				},
+				{
+					"children" : 
+					[
+						{
+							"children" : [],
+							"Cycles" : 1728,
+							"name" : "std::_Vector_const_iterator<std::_Vector_val<std::_Simple_types<MSystem *> > >::_Compat"
+						}
+					],
+					"Cycles" : 4932,
+					"name" : "std::_Vector_const_iterator<std::_Vector_val<std::_Simple_types<MSystem *> > >::operator<"
+				},
+				{
+					"children" : 
+					[
+						{
+							"children" : [],
+							"Cycles" : 1800,
+							"name" : "std::_Vector_const_iterator<std::_Vector_val<std::_Simple_types<MSystem *> > >::operator*"
+						}
+					],
+					"Cycles" : 4140,
+					"name" : "std::_Vector_iterator<std::_Vector_val<std::_Simple_types<MSystem *> > >::operator*"
+				},
+				{
+					"children" : 
+					[
+						{
+							"children" : [],
+							"Cycles" : 1728,
+							"name" : "std::_Vector_const_iterator<std::_Vector_val<std::_Simple_types<MSystem *> > >::operator++"
+						}
+					],
+					"Cycles" : 5508,
+					"name" : "std::_Vector_iterator<std::_Vector_val<std::_Simple_types<MSystem *> > >::operator++"
+				},
+				{
+					"children" : 
+					[
+						{
+							"children" : [],
+							"Cycles" : 1692,
+							"name" : "std::_Compressed_pair<std::_Wrap_alloc<std::allocator<MSystem *> >,std::_Vector_val<std::_Simple_types<MSystem *> >,1>::_Get_second"
+						}
+					],
+					"Cycles" : 3852,
+					"name" : "std::_Vector_alloc<std::_Vec_base_types<MSystem *,std::allocator<MSystem *> > >::_Get_data"
+				},
+				{
+					"children" : 
+					[
+						{
+							"children" : 
+							[
+								{
+									"children" : [],
+									"Cycles" : 1656,
+									"name" : "std::_Compressed_pair<std::_Wrap_alloc<std::allocator<MSystem *> >,std::_Vector_val<std::_Simple_types<MSystem *> >,1>::_Get_second"
+								}
+							],
+							"Cycles" : 3384,
+							"name" : "std::_Vector_alloc<std::_Vec_base_types<MSystem *,std::allocator<MSystem *> > >::_Get_data"
+						}
+					],
+					"Cycles" : 5580,
+					"name" : "std::_Vector_alloc<std::_Vec_base_types<MSystem *,std::allocator<MSystem *> > >::_Mylast"
+				},
+				{
+					"children" : 
+					[
+						{
+							"children" : [],
+							"Cycles" : 1692,
+							"name" : "std::_Vector_const_iterator<std::_Vector_val<std::_Simple_types<MSystem *> > >::_Vector_const_iterator<std::_Vector_val<std::_Simple_types<MSystem *> > >"
+						}
+					],
+					"Cycles" : 4932,
+					"name" : "std::_Vector_iterator<std::_Vector_val<std::_Simple_types<MSystem *> > >::_Vector_iterator<std::_Vector_val<std::_Simple_types<MSystem *> > >"
+				}
+			],
+			"Cycles" : 16200,
+			"name" : "MeadeorEngine::GameLoop"
+		},
+		{
+			"children" : 
+			[
+				{
+					"children" : [],
+					"Cycles" : 1656,
+					"name" : "std::_Vector_const_iterator<std::_Vector_val<std::_Simple_types<MSystem *> > >::_Compat"
+				}
+			],
+			"Cycles" : 4572,
+			"name" : "std::_Vector_const_iterator<std::_Vector_val<std::_Simple_types<MSystem *> > >::operator<"
+		},
+		{
+			"children" : 
+			[
+				{
+					"children" : [],
+					"Cycles" : 1692,
+					"name" : "std::_Vector_const_iterator<std::_Vector_val<std::_Simple_types<MSystem *> > >::operator*"
+				}
+			],
+			"Cycles" : 5472,
+			"name" : "std::_Vector_iterator<std::_Vector_val<std::_Simple_types<MSystem *> > >::operator*"
+		},
+		{
+			"children" : [],
+			"Cycles" : 6840,
+			"name" : "MeadeorEngine::Parse"
+		},
+		{
+			"children" : [],
+			"Cycles" : 3312,
+			"name" : "Event_Engine::Event_Engine"
+		},
+		{
+			"children" : [],
+			"Cycles" : 3276,
+			"name" : "MeadeorEngine::Parse"
+		},
+		{
+			"children" : [],
+			"Cycles" : 4104,
+			"name" : "Event_Engine::~Event_Engine"
+		},
+		{
+			"children" : 
+			[
+				{
+					"children" : [],
+					"Cycles" : 1980,
+					"name" : "std::_Vector_const_iterator<std::_Vector_val<std::_Simple_types<MSystem *> > >::operator++"
+				}
+			],
+			"Cycles" : 5184,
+			"name" : "std::_Vector_iterator<std::_Vector_val<std::_Simple_types<MSystem *> > >::operator++"
+		},
+		{
+			"children" : 
+			[
+				{
+					"children" : 
+					[
+						{
+							"children" : [],
+							"Cycles" : 1692,
+							"name" : "std::_Compressed_pair<std::_Wrap_alloc<std::allocator<MSystem *> >,std::_Vector_val<std::_Simple_types<MSystem *> >,1>::_Get_second"
+						}
+					],
+					"Cycles" : 3672,
+					"name" : "std::_Vector_alloc<std::_Vec_base_types<MSystem *,std::allocator<MSystem *> > >::_Get_data"
+				},
+				{
+					"children" : 
+					[
+						{
+							"children" : 
+							[
+								{
+									"children" : [],
+									"Cycles" : 1692,
+									"name" : "std::_Compressed_pair<std::_Wrap_alloc<std::allocator<MSystem *> >,std::_Vector_val<std::_Simple_types<MSystem *> >,1>::_Get_second"
+								}
+							],
+							"Cycles" : 3456,
+							"name" : "std::_Vector_alloc<std::_Vec_base_types<MSystem *,std::allocator<MSystem *> > >::_Get_data"
+						}
+					],
+					"Cycles" : 6588,
+					"name" : "std::_Vector_alloc<std::_Vec_base_types<MSystem *,std::allocator<MSystem *> > >::_Mylast"
+				},
+				{
+					"children" : 
+					[
+						{
+							"children" : [],
+							"Cycles" : 1800,
+							"name" : "std::_Vector_const_iterator<std::_Vector_val<std::_Simple_types<MSystem *> > >::_Vector_const_iterator<std::_Vector_val<std::_Simple_types<MSystem *> > >"
+						}
+					],
+					"Cycles" : 5112,
+					"name" : "std::_Vector_iterator<std::_Vector_val<std::_Simple_types<MSystem *> > >::_Vector_iterator<std::_Vector_val<std::_Simple_types<MSystem *> > >"
+				}
+			],
+			"Cycles" : 20016,
+			"name" : "std::vector<MSystem *,std::allocator<MSystem *> >::end"
+		},
+		{
+			"children" : [],
+			"Cycles" : 3348,
+			"name" : "std::_Vector_const_iterator<std::_Vector_val<std::_Simple_types<MSystem *> > >::_Compat"
+		},
+		{
+			"children" : [],
+			"Cycles" : 2916,
+			"name" : "std::_Vector_const_iterator<std::_Vector_val<std::_Simple_types<MSystem *> > >::operator*"
+		},
+		{
+			"children" : [],
+			"Cycles" : 3060,
+			"name" : "std::_Vector_const_iterator<std::_Vector_val<std::_Simple_types<MSystem *> > >::operator++"
+		},
+		{
+			"children" : 
+			[
+				{
+					"children" : [],
+					"Cycles" : 1764,
+					"name" : "std::_Vector_const_iterator<std::_Vector_val<std::_Simple_types<MSystem *> > >::_Vector_const_iterator<std::_Vector_val<std::_Simple_types<MSystem *> > >"
+				}
+			],
+			"Cycles" : 5112,
+			"name" : "std::_Vector_iterator<std::_Vector_val<std::_Simple_types<MSystem *> > >::_Vector_iterator<std::_Vector_val<std::_Simple_types<MSystem *> > >"
+		},
+		{
+			"children" : [],
+			"Cycles" : 3564,
+			"name" : "std::_Vector_const_iterator<std::_Vector_val<std::_Simple_types<MSystem *> > >::_Vector_const_iterator<std::_Vector_val<std::_Simple_types<MSystem *> > >"
+		},
+		{
+			"children" : 
+			[
+				{
+					"children" : [],
+					"Cycles" : 2556,
+					"name" : "std::_Vector_const_iterator<std::_Vector_val<std::_Simple_types<MSystem *> > >::_Vector_const_iterator<std::_Vector_val<std::_Simple_types<MSystem *> > >"
+				}
+			],
+			"Cycles" : 11232,
+			"name" : "std::_Vector_iterator<std::_Vector_val<std::_Simple_types<MSystem *> > >::_Vector_iterator<std::_Vector_val<std::_Simple_types<MSystem *> > >"
+		},
+		{
+			"children" : 
+			[
+				{
+					"children" : 
+					[
+						{
+							"children" : [],
+							"Cycles" : 1764,
+							"name" : "std::_Compressed_pair<std::_Wrap_alloc<std::allocator<MSystem *> >,std::_Vector_val<std::_Simple_types<MSystem *> >,1>::_Get_second"
+						}
+					],
+					"Cycles" : 3708,
+					"name" : "std::_Vector_alloc<std::_Vec_base_types<MSystem *,std::allocator<MSystem *> > >::_Get_data"
+				},
+				{
+					"children" : 
+					[
+						{
+							"children" : 
+							[
+								{
+									"children" : [],
+									"Cycles" : 1656,
+									"name" : "std::_Compressed_pair<std::_Wrap_alloc<std::allocator<MSystem *> >,std::_Vector_val<std::_Simple_types<MSystem *> >,1>::_Get_second"
+								}
+							],
+							"Cycles" : 3636,
+							"name" : "std::_Vector_alloc<std::_Vec_base_types<MSystem *,std::allocator<MSystem *> > >::_Get_data"
+						}
+					],
+					"Cycles" : 7020,
+					"name" : "std::_Vector_alloc<std::_Vec_base_types<MSystem *,std::allocator<MSystem *> > >::_Myfirst"
+				},
+				{
+					"children" : 
+					[
+						{
+							"children" : [],
+							"Cycles" : 1692,
+							"name" : "std::_Vector_const_iterator<std::_Vector_val<std::_Simple_types<MSystem *> > >::_Vector_const_iterator<std::_Vector_val<std::_Simple_types<MSystem *> > >"
+						}
+					],
+					"Cycles" : 5436,
+					"name" : "std::_Vector_iterator<std::_Vector_val<std::_Simple_types<MSystem *> > >::_Vector_iterator<std::_Vector_val<std::_Simple_types<MSystem *> > >"
+				}
+			],
+			"Cycles" : 19944,
+			"name" : "std::vector<MSystem *,std::allocator<MSystem *> >::begin"
+		},
+		{
+			"children" : [],
+			"Cycles" : 6336,
+			"name" : "std::_Vector_const_iterator<std::_Vector_val<std::_Simple_types<MSystem *> > >::_Vector_const_iterator<std::_Vector_val<std::_Simple_types<MSystem *> > >"
+		},
+		{
+			"children" : 
+			[
+				{
+					"children" : 
+					[
+						{
+							"children" : 
+							[
+								{
+									"children" : 
+									[
+										{
+											"children" : 
+											[
+												{
+													"children" : 
+													[
+														{
+															"children" : [],
+															"Cycles" : 2736,
+															"name" : "std::_Compressed_pair<std::_Wrap_alloc<std::allocator<MSystem *> >,std::_Vector_val<std::_Simple_types<MSystem *> >,1>::_Get_second"
+														}
+													],
+													"Cycles" : 13572,
+													"name" : "std::_Vector_alloc<std::_Vec_base_types<MSystem *,std::allocator<MSystem *> > >::_Get_data"
+												}
+											],
+											"Cycles" : 18468,
+											"name" : "std::_Vector_alloc<std::_Vec_base_types<MSystem *,std::allocator<MSystem *> > >::_Myfirst"
+										},
+										{
+											"children" : 
+											[
+												{
+													"children" : 
+													[
+														{
+															"children" : [],
+															"Cycles" : 2340,
+															"name" : "std::_Compressed_pair<std::_Wrap_alloc<std::allocator<MSystem *> >,std::_Vector_val<std::_Simple_types<MSystem *> >,1>::_Get_second"
+														}
+													],
+													"Cycles" : 4968,
+													"name" : "std::_Vector_alloc<std::_Vec_base_types<MSystem *,std::allocator<MSystem *> > >::_Get_data"
+												}
+											],
+											"Cycles" : 9576,
+											"name" : "std::_Vector_alloc<std::_Vec_base_types<MSystem *,std::allocator<MSystem *> > >::_Orphan_all"
+										},
+										{
+											"children" : 
+											[
+												{
+													"children" : 
+													[
+														{
+															"children" : [],
+															"Cycles" : 2484,
+															"name" : "std::_Compressed_pair<std::_Wrap_alloc<std::allocator<MSystem *> >,std::_Vector_val<std::_Simple_types<MSystem *> >,1>::_Get_second"
+														}
+													],
+													"Cycles" : 5112,
+													"name" : "std::_Vector_alloc<std::_Vec_base_types<MSystem *,std::allocator<MSystem *> > >::_Get_data"
+												}
+											],
+											"Cycles" : 10404,
+											"name" : "std::_Vector_alloc<std::_Vec_base_types<MSystem *,std::allocator<MSystem *> > >::_Mylast"
+										},
+										{
+											"children" : 
+											[
+												{
+													"children" : [],
+													"Cycles" : 2664,
+													"name" : "std::_Compressed_pair<std::_Wrap_alloc<std::allocator<MSystem *> >,std::_Vector_val<std::_Simple_types<MSystem *> >,1>::_Get_second"
+												}
+											],
+											"Cycles" : 7416,
+											"name" : "std::_Vector_alloc<std::_Vec_base_types<MSystem *,std::allocator<MSystem *> > >::_Get_data"
+										}
+									],
+									"Cycles" : 9936,
+									"name" : "std::vector<MSystem *,std::allocator<MSystem *> >::_Tidy"
+								},
+								{
+									"children" : 
+									[
+										{
+											"children" : 
+											[
+												{
+													"children" : [],
+													"Cycles" : 2268,
+													"name" : "std::_Compressed_pair<std::_Wrap_alloc<std::allocator<MSystem *> >,std::_Vector_val<std::_Simple_types<MSystem *> >,1>::_Get_second"
+												}
+											],
+											"Cycles" : 4788,
+											"name" : "std::_Vector_alloc<std::_Vec_base_types<MSystem *,std::allocator<MSystem *> > >::_Get_data"
+										},
+										{
+											"children" : 
+											[
+												{
+													"children" : [],
+													"Cycles" : 2196,
+													"name" : "std::_Destroy_range1<std::allocator<MSystem *>,MSystem * *>"
+												}
+											],
+											"Cycles" : 6228,
+											"name" : "std::_Destroy_range<std::allocator<MSystem *>,MSystem * *>"
+										}
+									],
+									"Cycles" : 15840,
+									"name" : "std::vector<MSystem *,std::allocator<MSystem *> >::_Destroy"
+								},
+								{
+									"children" : 
+									[
+										{
+											"children" : 
+											[
+												{
+													"children" : [],
+													"Cycles" : 2268,
+													"name" : "std::_Compressed_pair<std::_Wrap_alloc<std::allocator<MSystem *> >,std::_Vector_val<std::_Simple_types<MSystem *> >,1>::_Get_second"
+												}
+											],
+											"Cycles" : 4752,
+											"name" : "std::_Vector_alloc<std::_Vec_base_types<MSystem *,std::allocator<MSystem *> > >::_Get_data"
+										}
+									],
+									"Cycles" : 8856,
+									"name" : "std::_Vector_alloc<std::_Vec_base_types<MSystem *,std::allocator<MSystem *> > >::_Myend"
+								},
+								{
+									"children" : 
+									[
+										{
+											"children" : 
+											[
+												{
+													"children" : [],
+													"Cycles" : 2340,
+													"name" : "std::_Compressed_pair<std::_Wrap_alloc<std::allocator<MSystem *> >,std::_Vector_val<std::_Simple_types<MSystem *> >,1>::_Get_second"
+												}
+											],
+											"Cycles" : 4824,
+											"name" : "std::_Vector_alloc<std::_Vec_base_types<MSystem *,std::allocator<MSystem *> > >::_Get_data"
+										}
+									],
+									"Cycles" : 9036,
+									"name" : "std::_Vector_alloc<std::_Vec_base_types<MSystem *,std::allocator<MSystem *> > >::_Myfirst"
+								},
+								{
+									"children" : 
+									[
+										{
+											"children" : [],
+											"Cycles" : 2448,
+											"name" : "std::_Compressed_pair<std::_Wrap_alloc<std::allocator<MSystem *> >,std::_Vector_val<std::_Simple_types<MSystem *> >,1>::_Get_second"
+										}
+									],
+									"Cycles" : 7236,
+									"name" : "std::_Vector_alloc<std::_Vec_base_types<MSystem *,std::allocator<MSystem *> > >::_Get_data"
+								}
+							],
+							"Cycles" : 10044,
+							"name" : "std::vector<MSystem *,std::allocator<MSystem *> >::~vector<MSystem *,std::allocator<MSystem *> >"
+						},
+						{
+							"children" : 
+							[
+								{
+									"children" : [],
+									"Cycles" : 2340,
+									"name" : "std::_Compressed_pair<std::_Wrap_alloc<std::allocator<MSystem *> >,std::_Vector_val<std::_Simple_types<MSystem *> >,1>::_Get_second"
+								}
+							],
+							"Cycles" : 6696,
+							"name" : "std::_Vector_alloc<std::_Vec_base_types<MSystem *,std::allocator<MSystem *> > >::_Get_data"
+						},
+						{
+							"children" : 
+							[
+								{
+									"children" : [],
+									"Cycles" : 2916,
+									"name" : "std::allocator<MSystem *>::deallocate"
+								}
+							],
+							"Cycles" : 6984,
+							"name" : "std::_Wrap_alloc<std::allocator<MSystem *> >::deallocate"
+						},
+						{
+							"children" : 
+							[
+								{
+									"children" : 
+									[
+										{
+											"children" : [],
+											"Cycles" : 2340,
+											"name" : "std::_Compressed_pair<std::_Wrap_alloc<std::allocator<MSystem *> >,std::_Vector_val<std::_Simple_types<MSystem *> >,1>::_Get_second"
+										}
+									],
+									"Cycles" : 4896,
+									"name" : "std::_Vector_alloc<std::_Vec_base_types<MSystem *,std::allocator<MSystem *> > >::_Get_data"
+								}
+							],
+							"Cycles" : 9360,
+							"name" : "std::_Vector_alloc<std::_Vec_base_types<MSystem *,std::allocator<MSystem *> > >::_Myfirst"
+						},
+						{
+							"children" : 
+							[
+								{
+									"children" : 
+									[
+										{
+											"children" : [],
+											"Cycles" : 2304,
+											"name" : "std::_Compressed_pair<std::_Wrap_alloc<std::allocator<MSystem *> >,std::_Vector_val<std::_Simple_types<MSystem *> >,1>::_Get_second"
+										}
+									],
+									"Cycles" : 5184,
+									"name" : "std::_Vector_alloc<std::_Vec_base_types<MSystem *,std::allocator<MSystem *> > >::_Get_data"
+								}
+							],
+							"Cycles" : 9792,
+							"name" : "std::_Vector_alloc<std::_Vec_base_types<MSystem *,std::allocator<MSystem *> > >::_Mylast"
+						},
+						{
+							"children" : 
+							[
+								{
+									"children" : 
+									[
+										{
+											"children" : [],
+											"Cycles" : 2196,
+											"name" : "std::_Compressed_pair<std::_Wrap_alloc<std::allocator<MSystem *> >,std::_Vector_val<std::_Simple_types<MSystem *> >,1>::_Get_second"
+										}
+									],
+									"Cycles" : 4788,
+									"name" : "std::_Vector_alloc<std::_Vec_base_types<MSystem *,std::allocator<MSystem *> > >::_Get_data"
+								}
+							],
+							"Cycles" : 8028,
+							"name" : "std::_Vector_alloc<std::_Vec_base_types<MSystem *,std::allocator<MSystem *> > >::_Myend"
+						}
+					],
+					"Cycles" : 144900,
+					"name" : "MeadeorEngine::~MeadeorEngine"
+				}
+			],
+			"Cycles" : 155988,
+			"name" : "`dynamic atexit destructor for 'MeadeorEngine::engine''"
+		},
+		{
+			"children" : [],
+			"Cycles" : 5220,
+			"name" : "FrameController::~FrameController"
+		}
+	],
+	"Cycles" : 9254478528,
+	"name" : "`dynamic initializer for 'BLACK''"
+}
