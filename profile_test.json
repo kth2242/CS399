@@ -171,7 +171,12 @@
 			"children" :
 			[
 				{
-					"children" : [],
+					"children" : 
+					[
+						"children" : [],
+						"value" : 150,
+						"name" : "I_0_0"
+					],
 					"value" : 250,
 					"name" : "I_0"
 				},
