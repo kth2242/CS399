@@ -1,0 +1,115 @@
+{
+	"children" :
+	[
+		{
+			"children" : 
+			[
+				{
+					"children" : [],
+					"value" : 30,
+					"name" : "A_0"
+				}
+			],
+			"value" : 50,
+			"name" : "A"
+		},
+		{
+			"children" : 
+			[
+				{
+					"children" : [],
+					"value" : 50,
+					"name" : "B_0"
+				}
+			],
+			"value" : 100,
+			"name" : "B"
+		},
+		{
+			"children" :
+			[
+				{
+					"children" : [],
+					"value" : 70,
+					"name" : "C_0"
+				}
+			],
+			"value" : 150,
+			"name" : "C"
+		},
+		{
+			"children" :
+			[
+				{
+					"children" : [],
+					"value" : 90,
+					"name" : "D_0"
+				}
+			],
+			"value" : 200,
+			"name" : "D"
+		},
+		{
+			"children" :
+			[
+				{
+					"children" : [],
+					"value" : 130,
+					"name" : "E_0"
+				}
+			],
+			"value" : 250,
+			"name" : "E"
+		},
+		{
+			"children" :
+			[
+				{
+					"children" : [],
+					"value" : 150,
+					"name" : "F_0"
+				}
+			],
+			"value" : 300,
+			"name" : "F"
+		},
+		{
+			"children" :
+			[
+				{
+					"children" : [],
+					"value" : 230,
+					"name" : "G_0"
+				}
+			],
+			"value" : 350,
+			"name" : "G"
+		},
+		{
+			"children" :
+			[
+				{
+					"children" : [],
+					"value" : 330,
+					"name" : "H_0"
+				}
+			],
+			"value" : 400,
+			"name" : "H"
+		},
+		{
+			"children" :
+			[
+				{
+					"children" : [],
+					"value" : 350,
+					"name" : "I_0"
+				}
+			],
+			"value" : 450,
+			"name" : "I"
+		}
+	],
+	"value" : 1500,
+	"name" : "Root"
+}
